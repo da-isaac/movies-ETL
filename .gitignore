@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# config files
+config.py
+
 # .csv and .json files (too big to import)
 movies_metadata.csv
 ratings.csv

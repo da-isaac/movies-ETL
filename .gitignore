@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# .csv and .json files (too big to import)
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
+# Practice Modules
+Movielens Extract.ipynb
+Wiki Extract.ipynb
+
 # C extensions
 *.so
 
